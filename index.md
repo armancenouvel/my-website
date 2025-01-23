@@ -1,13 +1,21 @@
 ---
-title: Welcome to My Website
-description: A fun website with the Leap Day theme
+title: CTD Project
+description: Calibration for the CTD instrument
 layout: default
 ---
 
-# Welcome to My Leap Day Website!
+# Calibration 
 
-This is a simple website powered by GitHub Pages and styled with the **Leap Day** theme.
+You can find here the detailed explanations to calibrate the different sensors.
 
-- Explore the website
+# Calibration of the Conductivity Sensor
 - Customize the content
 - Enjoy the minimalist design!
+
+# Calibration of the Dissolved Oxygen Sensor 
+- step 1 
+- step 2
+
+# Calibration of the Temperature Sensor 
+- 
+- 
